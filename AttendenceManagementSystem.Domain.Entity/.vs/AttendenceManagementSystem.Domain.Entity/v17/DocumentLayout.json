@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.application\\dbtimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|solutionrelative:employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E440DA48-040D-48F5-B18D-436C7D1EF073}|..\\AttendanceManagementSystem.Presentation\\AttendanceManagementSystem.Presentation.csproj|d:\\semester2-year2\\c#\\project4\\attendancemanagementsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeView.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\EmployeeView.cs",
+              "RelativeDocumentMoniker": "EmployeeView.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\EmployeeView.cs",
+              "RelativeToolTip": "EmployeeView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:30:22.954Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:465830053:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1528073768:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1951245274:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendanceManagementSystem.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AttendanceManagementSystem.Presentation\\Program.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendanceManagementSystem.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\AttendanceManagementSystem.Presentation\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:21:16.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBTimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwHUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:44:15.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
