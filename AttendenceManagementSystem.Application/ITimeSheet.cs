@@ -6,7 +6,7 @@ namespace AttendenceManagementSystem.Application
     public interface ITimeSheet
     {
         void AddEmployee(Employee e);
-        void UpdateEmployee(string EmployeeId, string FullName, string Position, string Username, string Password);
+        void UpdateEmployee(string EmployeeId, string FullName, string Position);
         void LogEmployee(string cardNo, Log logInfo);
         List<EmployeeView> GetAllEmployee();
         List<Employee> GetAllEmployee(bool isSimpleVersion);

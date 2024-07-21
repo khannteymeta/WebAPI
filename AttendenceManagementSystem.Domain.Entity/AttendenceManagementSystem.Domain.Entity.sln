@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttendenceManagementSystem.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttendenceManagementSystem.Infrastructure", "..\AttendenceManagementSystem.Infrastructure\AttendenceManagementSystem.Infrastructure.csproj", "{45C38935-2C67-438D-896A-F4CE66683543}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceManagementSystem.Presentation", "..\AttendanceManagementSystem.Presentation\AttendanceManagementSystem.Presentation.csproj", "{E440DA48-040D-48F5-B18D-436C7D1EF073}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceManagementSystem.API", "..\AttendanceManagementSystem.API\AttendanceManagementSystem.API.csproj", "{B81D05C1-A004-499B-9BCB-FFCB3A591342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{45C38935-2C67-438D-896A-F4CE66683543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45C38935-2C67-438D-896A-F4CE66683543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45C38935-2C67-438D-896A-F4CE66683543}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E440DA48-040D-48F5-B18D-436C7D1EF073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E440DA48-040D-48F5-B18D-436C7D1EF073}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E440DA48-040D-48F5-B18D-436C7D1EF073}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E440DA48-040D-48F5-B18D-436C7D1EF073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81D05C1-A004-499B-9BCB-FFCB3A591342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81D05C1-A004-499B-9BCB-FFCB3A591342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81D05C1-A004-499B-9BCB-FFCB3A591342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81D05C1-A004-499B-9BCB-FFCB3A591342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

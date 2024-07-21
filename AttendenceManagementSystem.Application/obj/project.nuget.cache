@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpMUOoP0W1HDEbgq0Ce0Ui3slXfLiCDIeEqOXJ61fRKDcAKqf7zUYFOPfe3rnHZakNFDuq645aHdoG4ZyN565g==",
+  "dgSpecHash": "rhnsX87fqcNlsAvwu6A1iqb0CwpO1P7SXczZEpoAzAfEDHYRguyVJ1HD9v7tZXOeWMHcXRVzVCYdtP4BPONY3w==",
   "success": true,
-  "projectFilePath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+  "projectFilePath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI-99\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\MSI-99\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

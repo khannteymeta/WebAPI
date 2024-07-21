@@ -68,7 +68,7 @@ namespace AttendenceManagementSystem.Application
             return true;
         }
 
-        public void UpdateEmployee(string EmployeeId, string FullName, string Position, string Username, string password)
+        public void UpdateEmployee(string EmployeeId, string FullName, string Position)
         {
 
             //check for empty data

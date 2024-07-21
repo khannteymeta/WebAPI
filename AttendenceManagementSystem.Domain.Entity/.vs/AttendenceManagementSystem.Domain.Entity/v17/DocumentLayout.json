@@ -1,16 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\",
+  "WorkspaceRootPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.application\\dbtimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81D05C1-A004-499B-9BCB-FFCB3A591342}|..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj|d:\\semester2-year2\\c#\\webapi\\attendancemanagementsystem.api\\attendancemanagementsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45C38935-2C67-438D-896A-F4CE66683543}|..\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.infrastructure\\attendencemanagementsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D05C1-A004-499B-9BCB-FFCB3A591342}|..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj|d:\\semester2-year2\\c#\\webapi\\attendancemanagementsystem.api\\attendancemanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|solutionrelative:employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E440DA48-040D-48F5-B18D-436C7D1EF073}|..\\AttendanceManagementSystem.Presentation\\AttendanceManagementSystem.Presentation.csproj|d:\\semester2-year2\\c#\\project4\\attendancemanagementsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.application\\itimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.application\\dbtimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D05C1-A004-499B-9BCB-FFCB3A591342}|..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj|d:\\semester2-year2\\c#\\webapi\\attendancemanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.application\\filetimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.application\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.application\\dbauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\attendencemanagementsystem.domain.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|solutionrelative:attendencemanagementsystem.domain.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888E17-6431-4AB2-891D-38481222F398}|..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj|d:\\semester2-year2\\c#\\webapi\\attendencemanagementsystem.application\\attendencemanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A3B6F0-E641-439E-8EB3-C36B4B6A6A92}|AttendenceManagementSystem.Domain.Entity.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.application\\dbauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.infrastructure\\timesheetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.application\\dbtimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.application\\filetimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendencemanagementsystem.application\\itimesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendancemanagementsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\semester2-year2\\c#\\project4\\attendancemanagementsystem.presentation\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,17 +76,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmployeeView.cs",
-              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\EmployeeView.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\EmployeeView.cs",
               "RelativeDocumentMoniker": "EmployeeView.cs",
-              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\EmployeeView.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\EmployeeView.cs",
               "RelativeToolTip": "EmployeeView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T05:30:22.954Z",
               "IsPinned": true
@@ -73,28 +129,245 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceManagementSystem.API.http",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.http",
+              "RelativeDocumentMoniker": "..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.http",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.http",
+              "RelativeToolTip": "..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-21T05:24:48.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AttendanceManagementSystem.API.csproj",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj",
+              "RelativeToolTip": "..\\AttendanceManagementSystem.API\\AttendanceManagementSystem.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T04:31:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendenceManagementSystem.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T04:26:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEcHAAAAAAAAAAAjwEoHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-21T05:11:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:51:22.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBTimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwEYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:50:53.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendanceManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AttendanceManagementSystem.API\\Program.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendanceManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "..\\AttendanceManagementSystem.API\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:33:11.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\IAuthentication.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\IAuthentication.cs",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\IAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:52:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileTimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:51:53.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBAuthentication.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:50:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendenceManagementSystem.Domain.Entity.csproj",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj",
+              "RelativeDocumentMoniker": "AttendenceManagementSystem.Domain.Entity.csproj",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj",
+              "RelativeToolTip": "AttendenceManagementSystem.Domain.Entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T04:27:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttendenceManagementSystem.Application.csproj",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T04:27:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBAuthentication.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "RelativeToolTip": "..\\..\\project4\\AttendenceManagementSystem.Application\\DBAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:07:02.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeSheetDbContext.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Infrastructure\\TimeSheetDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendenceManagementSystem.Infrastructure\\TimeSheetDbContext.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Infrastructure\\TimeSheetDbContext.cs",
+              "RelativeToolTip": "..\\..\\project4\\AttendenceManagementSystem.Infrastructure\\TimeSheetDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:46:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBTimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "RelativeToolTip": "..\\..\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:44:15.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileTimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "RelativeToolTip": "..\\..\\project4\\AttendenceManagementSystem.Application\\FileTimeSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:47:44.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:31:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITimeSheet.cs",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "RelativeToolTip": "..\\..\\project4\\AttendenceManagementSystem.Application\\ITimeSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:47:53.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendanceManagementSystem.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "..\\AttendanceManagementSystem.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendanceManagementSystem.Presentation\\Program.cs",
               "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendanceManagementSystem.Presentation\\Program.cs",
-              "RelativeToolTip": "..\\AttendanceManagementSystem.Presentation\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAgwBgAAAARAAAA",
+              "RelativeToolTip": "..\\..\\project4\\AttendanceManagementSystem.Presentation\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T00:21:16.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DBTimeSheet.cs",
-              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
-              "RelativeDocumentMoniker": "..\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
-              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
-              "RelativeToolTip": "..\\AttendenceManagementSystem.Application\\DBTimeSheet.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAkwHUAAAAOAAAA",
+              "DocumentIndex": 20,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semester2-year2\\C#\\project4\\AttendanceManagementSystem.Presentation\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\project4\\AttendanceManagementSystem.Presentation\\EmployeeForm.cs",
+              "ToolTip": "D:\\Semester2-year2\\C#\\project4\\AttendanceManagementSystem.Presentation\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\project4\\AttendanceManagementSystem.Presentation\\EmployeeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T02:44:15.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T02:59:28.185Z"
             }
           ]
         }

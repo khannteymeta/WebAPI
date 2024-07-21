@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj",
+      "projectUniqueName": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj",
       "projectName": "AttendenceManagementSystem.Domain.Entity",
-      "projectPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj",
+      "projectPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj",
       "packagesPath": "C:\\Users\\MSI-99\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\obj\\",
+      "outputPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

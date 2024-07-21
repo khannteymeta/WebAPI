@@ -22,3 +22,15 @@ D:\Semester2-year2\C#\project4\AttendenceManagementSystem.Domain.Entity\obj\Debu
 D:\Semester2-year2\C#\project4\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\refint\AttendenceManagementSystem.Domain.Entity.dll
 D:\Semester2-year2\C#\project4\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.pdb
 D:\Semester2-year2\C#\project4\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\ref\AttendenceManagementSystem.Domain.Entity.dll
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\bin\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.deps.json
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\bin\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.dll
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\bin\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.pdb
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.AssemblyInfoInputs.cache
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.AssemblyInfo.cs
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.sourcelink.json
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.dll
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\refint\AttendenceManagementSystem.Domain.Entity.dll
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\AttendenceManagementSystem.Domain.Entity.pdb
+D:\Semester2-year2\C#\WebAPI\AttendenceManagementSystem.Domain.Entity\obj\Debug\net8.0\ref\AttendenceManagementSystem.Domain.Entity.dll

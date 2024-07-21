@@ -2710,11 +2710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+      "projectUniqueName": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
       "projectName": "AttendenceManagementSystem.Application",
-      "projectPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
+      "projectPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\AttendenceManagementSystem.Application.csproj",
       "packagesPath": "C:\\Users\\MSI-99\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Application\\obj\\",
+      "outputPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2736,11 +2736,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj": {
-              "projectPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj"
+            "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj": {
+              "projectPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Domain.Entity\\AttendenceManagementSystem.Domain.Entity.csproj"
             },
-            "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj": {
-              "projectPath": "D:\\Semester2-year2\\C#\\project4\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj"
+            "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj": {
+              "projectPath": "D:\\Semester2-year2\\C#\\WebAPI\\AttendenceManagementSystem.Infrastructure\\AttendenceManagementSystem.Infrastructure.csproj"
             }
           }
         }

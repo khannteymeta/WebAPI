@@ -21,7 +21,7 @@ namespace AttendenceManagementSystem.Application
 
         }
 
-        public void UpdateEmployee(string EmployeeId, string FullName, string Position, string Username, string Password)
+        public void UpdateEmployee(string EmployeeId, string FullName, string Position)
         {
             // Find employee by ID
             var employeeToUpdate = Employees.FirstOrDefault(e => e.EmployeeId == new Guid(EmployeeId));
